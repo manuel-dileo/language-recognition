@@ -1,5 +1,5 @@
 # Language-recognition
-An object oriented Java program for language based recognition on the analysis of frequencies. The program is able to read entire books in different languages to better learn each language. Javadoc included.
+An object oriented Java program for language recognition based on the analysis of frequencies. The program is able to read entire books in different languages to better learn each language. Javadoc included.
 ## Notes and Instructions
 The program, if launched, is able to recognize only texts writen in English and Italian.
 In case you would like to train the program with other languages, you have to download new text fles, save
